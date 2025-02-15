@@ -1,4 +1,3 @@
-Here’s a **GitHub-friendly** description for your concatenation examples:  
 
 ---
 
