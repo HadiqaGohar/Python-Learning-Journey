@@ -1,41 +1,47 @@
+### Python Basics: Printing "Hello World!"  
 
-Q: How do you print "Hello World!" in Python?
-A: Use the print() function:
-
+#### 📌 **How to Print "Hello World!" in Python?**  
+Use the `print()` function:  
+```python
 print("Hello World!")
+```
 
-Q: What will the following code output?
-print("Hello World!")
-
-A: It will output:
+#### 🔍 **What is the Output of `print("Hello World!")`?**  
+It displays:  
+```
 Hello World!
+```
 
-Q: Why do we use print() in Python?
-A: The print() function is used to display output on the screen or console.
+#### ❓ **Why Do We Use `print()` in Python?**  
+The `print()` function is used to display output on the screen or console.  
 
-Q: Is Python case-sensitive?
-A: Yes, Python is case-sensitive, so Print("Hello World!") would cause an error.
+#### 🔤 **Is Python Case-Sensitive?**  
+Yes, Python is case-sensitive. Writing `Print("Hello World!")` instead of `print("Hello World!")` will result in an error.  
 
-Q: Do we need to add a semicolon at the end of the statement in Python?
-A: No, Python does not require a semicolon at the end of a statement.
+#### 📝 **Do We Need a Semicolon at the End of a Statement?**  
+No, Python does not require semicolons at the end of statements.  
 
-Q: What type of data is "Hello World!"?
-A: "Hello World!" is a string data type in Python.
+#### 🔡 **What Data Type is `"Hello World!"`?**  
+It is a **string** data type in Python.  
 
-Q: What happens if we remove the parentheses in print() in Python 3?
-A: It will cause a SyntaxError, because in Python 3, print is a function and requires parentheses.
+#### ⚠️ **What Happens if We Remove Parentheses from `print()` in Python 3?**  
+A **SyntaxError** will occur because `print` is a function in Python 3 and requires parentheses.  
 
-Q: Can we use single quotes instead of double quotes in print("Hello World!")?
-A: Yes, we can use single quotes:
+#### 🏷️ **Can We Use Single Quotes Instead of Double Quotes?**  
+Yes, both work:  
+```python
 print('Hello World!')
+```
 
-Q: How can we print multiple words using print() in Python?
-A: We can separate words using commas:
+#### ✨ **How to Print Multiple Words in Python?**  
+Use commas to separate words:  
+```python
 print("Hello", "World!")
-
-Output:
+```
+**Output:**  
+```
 Hello World!
+```
 
-Q: What is the purpose of writing print("Hello World!") as a first program?
-A: It is a simple way to get started with Python and understand how to display output.
-
+#### 🎯 **Why is `print("Hello World!")` Often the First Program?**  
+It’s a simple way to get started with Python and understand how to display output.  
