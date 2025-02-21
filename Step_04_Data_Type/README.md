@@ -91,6 +91,3 @@ Data types in Python help us **store, manipulate, and organize data efficiently*
 ✅ Helps in mastering Python fundamentals  
 
 A perfect resource for Python learners and developers! 🐍✨  
-
-Let me know if you'd like any modifications! 😊
-
