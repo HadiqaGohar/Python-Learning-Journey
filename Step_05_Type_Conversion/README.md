@@ -1,4 +1,3 @@
-Here's a detailed description of **Type Conversion in Python** that you can use for GitHub:
 
 ---
 
