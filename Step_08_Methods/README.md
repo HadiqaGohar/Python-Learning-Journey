@@ -20,7 +20,8 @@ This repository contains a comprehensive collection of Python methods categorize
 ## 📂 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/python-methods-collection.git
+   git clone https://github.com/HadiqaGohar/Python-Learning-Journey.git
+
    ```  
 2. Navigate to the required folder and run the Python scripts to explore different methods.  
 
